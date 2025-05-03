@@ -1,7 +1,3 @@
- 👋 Salut, moi c’est Yves Nsimba !
-
-Développeur web passionné basé à **Kinshasa**, je conçois des applications web modernes, efficaces et centrées sur l'utilisateur.
-
  🧰 Stack technique
 - 🌐 HTML | CSS | JavaScript | React | Tailwind CSS  
 - 🛠️ Node.js | Express | MongoDB | Supabase  
